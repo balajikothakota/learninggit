@@ -7,4 +7,7 @@ public class NewProductCheck {
     public void test(){
         System.out.println("test branch....");
     }
+    public void newTest(){
+      System.out.println("new test...");
+    }
 }
