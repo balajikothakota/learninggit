@@ -8,6 +8,6 @@ public class NewProductCheck {
         System.out.println("test branch....");
     }
     public void newTest(){
-      System.out.println("new test...");
+      System.out.println("new test");
     }
 }
