@@ -42,6 +42,7 @@ public class Sample {
         Iterator<Map.Entry<String, Integer>> iterator = map.entrySet().iterator();
         while(iterator.hasNext()){
             System.out.println(iterator.next());
+            System.out.println("test");
         }
         System.out.println(map);
 
